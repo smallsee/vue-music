@@ -95,7 +95,8 @@
         setTimeout(() => {
           this.refresh()
         }, this.refreshDelay)
-      }
+      },
+
     }
   }
 </script>
